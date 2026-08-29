@@ -1,0 +1,18 @@
+TIFLOGRAM - YANGILANGAN TO'PLAM
+===============================
+
+YANGI: Gemini xavfsizlik skaneri
+- Model: gemini-3.5-flash-lite (yengil, barqaror, klassifikatsiya uchun)
+- Har 24 soatda kanal / guruh / botlarni tekshiradi
+- Shubhali deb topsa (scam, phishing, malware...) avtomatik o'chiradi (ixtiyoriy)
+- Sozlamalar: Sozlamalar -> Maxfiylik va xavfsizlik -> "Gemini xavfsizlik (Tiflogram)"
+  * Gemini API kalit
+  * Skanerni yoqish
+  * Avtomatik o'chirish
+  * Hozir tekshirish
+
+API kalit: https://aistudio.google.com/apikey
+
+Boshqa funksiyalar: reklamasiz, custom tovush, TalkBack, uzun matn->txt fayl
+
+O'RNATISH: ZIP ni repo ga yuklang, Actions -> Run workflow.
